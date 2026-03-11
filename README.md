@@ -10,8 +10,7 @@ Existen dos formas de hacerlo: con una pila explícita o mediante recursividad (
 
 DFS(Grafo, NodoActual, Visitados)
     Insertar NodoActual en Visitados
-    PROCESAR NodoActual (imprimir o guardar)
-    
+    PROCESAR NodoActual (imprimir o guardar)    
     PARA cada Vecino de NodoActual:
         SI Vecino no está en Visitados:
             DFS(Grafo, Vecino, Visitados)  // Llamada recursiva
