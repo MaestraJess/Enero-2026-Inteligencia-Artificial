@@ -14,7 +14,7 @@ Este módulo proporciona herramientas robustas para el cálculo de regresiones l
 ## 🛠️ Instalación
 Para usar esta biblioteca, clona el repositorio y asegúrate de tener las dependencias necesarias:
 
-```bash
+
 git clone [https://github.com/tu-usuario/nombre-repositorio.git](https://github.com/tu-usuario/nombre-repositorio.git)
 cd nombre-repositorio
 pip install -r requirements.txt
@@ -47,3 +47,4 @@ DFS(Grafo, NodoActual, Visitados)
         SI Vecino no está en Visitados:
         
             DFS(Grafo, Vecino, Visitados)  // Llamada recursiva
+
