@@ -8,6 +8,7 @@ Si el BFS es como una onda en un estanque, el DFS (Búsqueda en Profundidad) es 
 *Pseudocódigo*
 Existen dos formas de hacerlo: con una pila explícita o mediante recursividad (que usa la pila del sistema).
 
+
 DFS(Grafo, NodoActual, Visitados)
     Insertar NodoActual en Visitados
     PROCESAR NodoActual (imprimir o guardar)    
