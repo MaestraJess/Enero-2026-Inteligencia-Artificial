@@ -1,7 +1,3 @@
-# Enero-2026-Inteligencia-Artificial
-Programas de Inteligencia Artificial
-
-
 # Búsqueda primero en profundidad (DFS)
 Si el BFS es como una onda en un estanque, el DFS (Búsqueda en Profundidad) es como un explorador en un laberinto que decide seguir un camino hasta que choca con una pared antes de retroceder.
 
